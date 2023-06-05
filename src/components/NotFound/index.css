@@ -1,0 +1,17 @@
+.not-found {
+  width: 40%;
+}
+
+.not {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  height: 100vh;
+}
+.not-head {
+  color: #ffffff;
+}
+.not-p {
+  color: #ffffff;
+}

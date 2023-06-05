@@ -1,0 +1,12 @@
+.digital-img {
+  width: 70%;
+}
+.head {
+  color: #ffffff;
+}
+.home {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
